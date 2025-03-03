@@ -5,5 +5,7 @@ public class Okul {
 
         Ogrenci ogr1=new Ogrenci("İsmet","Temur",1);
         System.out.println(ogr1);
+
+
     }
 }
